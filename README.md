@@ -3,7 +3,7 @@
 
 ## User-Stories
 
-| Role         | User Wish " I "   | Reason "So that"       | Priority     |
+| Role         | User Wish " I "   | Reason "So that"       | Priority  1-5   |
 | ------------ | ------------- | ------------ | ------------ |
 | User         | Want to interact with the application  | I can explore different hobbies| 1 |
 | User         | Want to be able to find a survey/help that fits me | I can find personalized help | 1 |
