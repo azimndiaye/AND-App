@@ -8,7 +8,9 @@ text omkring motivationen
 ## User-Stories
 
 User = User of application
+
 Client = Host of hobbies
+
 Business Administrator = Developer/Maintainer/Service of application.
 
 
