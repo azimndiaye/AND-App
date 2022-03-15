@@ -1,4 +1,4 @@
-# APP-Navn
+# Hobbiventure (BETA)
 
 ## Program description and motivation
 Idéen til vores app udsprang af en tanke om at danskere skulle have lettere ved at komme i gang med deres fritidsaktiviteter og forhenværende eller nye hobbies efter Corona restriktionerne blev hævet i Danmark. 
