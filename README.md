@@ -1,7 +1,8 @@
 # AND-App
 
 ## Program description and motivation
-
+text omkring programmet
+blalbal
 
 ## User-Stories
 
