@@ -1,9 +1,10 @@
 # APP-Navn
 
 ## Program description and motivation
-text omkring programmet 
+Idéen til vores app udsprang af en tanke om at danskere skulle have lettere ved at komme i gang med deres fritidsaktiviteter og forhenværende eller nye hobbies efter Corona restriktionerne blev hævet i Danmark. 
 
-text omkring motivationen
+Idéen er at man til en start opretter en bruger, hvorefter man bliver stillet nogle spørgsmål ift. Interesser, tid og livsstil. Derefter finder appen nogle passende aktiviteter eller hobbyer man kan udforske. Appen indsamler tilbud og priser fra forskellige foreninger, som gør det nemt og enkelt at købe sig til en aktivitet. Derudover er tanken også, at der skal være en feature hvor man kan invitere sine venner til at deltage til aktiviteter med hinanden. 
+
 
 ## User-Stories
 
