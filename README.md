@@ -7,6 +7,11 @@ text omkring motivationen
 
 ## User-Stories
 
+User = User of application
+Client = Host of hobbies
+Business Administrator = Developer/Maintainer/Service of application.
+
+
 | Role         | User Wish " I "   | Reason "So that"       | Priority  1-5   |
 | ------------ | ------------- | ------------ | ------------ |
 | User         | Want to interact with the application  | I can explore different hobbies| 1 |
@@ -34,3 +39,21 @@ text omkring motivationen
 | User         | Want to be able to add friends/other users  | I can interact with friends about hobbies – Sending invites to hobby: events/startups or the like, and sign up together with friends | 4 |
 | Business Administrator | Want to be able to change a user’s account  |  I can help with their issues | 4 |
 | User         | Want to be able to get offers  | It is cheaper for me to use the app instead of going directly to the hobby-location | 5 |
+
+
+## Requirements
+- [ ] Basics
+- [ ] Interaction
+- [ ] Navigation
+- [ ] UX
+- [ ] Lists
+- [ ] Architecture
+- [ ] Persistence
+- [ ] Networking
+- [ ] Firebase
+- [ ] Quality
+
+
+
+
+
