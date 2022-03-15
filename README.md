@@ -1,4 +1,4 @@
-# AND-App
+# APP-Navn
 
 ## Program description and motivation
 text omkring programmet 
