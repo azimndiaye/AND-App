@@ -59,6 +59,6 @@ Business Administrator = Developer/Maintainer/Service of application.
 Mulige Networking API med Aarhus events: 
 https://www.opendata.dk/city-of-aarhus/eventdatabasen
 https://www.opendata.dk/city-of-aarhus/friluftslivtemaer_aarhus
-
-
+https://www.opendata.dk/city-of-aarhus/arrangementer-i-aarhus
+https://www.opendata.dk/city-of-aarhus/lokalsamfund-i-aarhus
 
