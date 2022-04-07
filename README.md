@@ -56,7 +56,9 @@ Business Administrator = Developer/Maintainer/Service of application.
 - [ ] Firebase
 - [ ] Quality
 
-
+Mulige Networking API med Aarhus events: 
+https://www.opendata.dk/city-of-aarhus/eventdatabasen
+https://www.opendata.dk/city-of-aarhus/friluftslivtemaer_aarhus
 
 
 
